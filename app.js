@@ -3,7 +3,7 @@ document.title = "Responsive Navbar";
 let body = document.body;
 Object.assign(body.style, {
     width: "100%",
-    height: "100vh",
+    minHeight: "100vh",
     margin: "0",
     padding: "0",
     overflowX: "hidden",
