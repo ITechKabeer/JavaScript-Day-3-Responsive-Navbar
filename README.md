@@ -1,6 +1,6 @@
 # 🌐 Responsive Navbar (JavaScript Day 3)
 **Live Demo:**
-👉 [Item Collector Website](https://codealpha-responsive-navbar.vercel.app)
+👉 [Responsive Navbar](https://codealpha-responsive-navbar.vercel.app)
 
 A modern and responsive **Navigation Bar** built completely using **pure JavaScript DOM manipulation** and **CSS styling**.  
 Every part of the navbar — logo, menu links, sign-in/sign-up buttons, and even light/dark mode — is created dynamically without writing any HTML in the file.
